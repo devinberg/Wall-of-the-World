@@ -1,0 +1,1 @@
+A php code that creates a page where text can be posted to a public "wall". The data is stored in a text file and read from that file with each page load.
